@@ -1,7 +1,14 @@
 .custom-txtcolor {
-    color: rgb(255, 26, 145);
+    color: #DCD2EA;
+}
+.custom-txtcolord {
+    color: #462C95;
 }
 
 .custom-bg {
-    background-color: rgb(255, 26, 145);
+    background-color: #462C95;
+}
+
+.profile-img {
+    width: 50vh;
 }
